@@ -5,7 +5,7 @@ soma = 0    # valor inicial
 
 qtde_entradas = 4      #contador de entradas 
 
-while qtde_entradas > 0: 
+for i in range(qtde_entradas):   #sem nada, o python começa com 0, é a mesma coisa que range(0,4)
     altura = input("Entre com a altura: ")
     altura = float(altura)
     soma += altura
