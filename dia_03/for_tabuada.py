@@ -2,6 +2,8 @@
 
 #range é uma estrutura de dados do python que cria uma sequencia de numeros
 
+#o i está percorrendo a posição. i de índice 
+
 
 numero = 2 
 max_numero = 100 
