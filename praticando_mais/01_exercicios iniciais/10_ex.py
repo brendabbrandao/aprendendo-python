@@ -10,7 +10,7 @@ negativo = 0
 numero = -1 
 
 while numero != 0:
-    numero = int(input("Digite um número: | Digite 0 para parar"))
+    numero = int(input("Digite um número: | Digite 0 para parar: "))
     if numero > 0:
         print("Número positivo!")
         positivo = positivo + 1
