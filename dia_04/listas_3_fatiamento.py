@@ -5,8 +5,9 @@ print(brenda[0:4])
 
 #quais foram as duas últimas posições de senioridade? 
 print(brenda[4][2:4])
+
 #outra forma de fazer isso
-print(brenda[4][-2:]) #pse vai até o final não precisa pegar o último elemento
+print(brenda[4][-2:]) # vai até o final não precisa pegar o último elemento
 
 # brenda[start : stop : step]  
 #start = começo
