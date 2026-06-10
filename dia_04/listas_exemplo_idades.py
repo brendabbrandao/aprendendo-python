@@ -1,4 +1,4 @@
-#vou pegar várias idades dos usuários 
+
 
 #métodos - ações que os objetos no python pode ter 
 
@@ -13,6 +13,8 @@
 
 #a própria lista foi modificada adicionando um último elemento no final dela! 
 
+
+#vou pegar várias idades dos usuários 
 idades = []
 
 while True:
