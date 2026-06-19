@@ -5,3 +5,6 @@ def f(x):
     resultado = 1 + x
     return resultado #função podem ou não retornar coisas | quero retornar um valor/variável
 f(0)
+
+
+
