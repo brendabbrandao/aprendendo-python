@@ -40,3 +40,7 @@ juros_compostos(aporte=1000, taxa=0.13, anos=4)
 
 #Dicas do que é esperado em cada um dos elementos da função
 #def juros_compostos(aporte:int, taxa:float, anos:int)->float:  - Assim aparece qual tipo é esperado em cada elemento
+
+##%%
+def juros_compostos(aporte:int, taxa:float, anos:int)->float:   #nesse caso ele espera retornar um float
+    return aporte * (1 + taxa) **anos 
