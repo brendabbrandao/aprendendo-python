@@ -1,4 +1,3 @@
-#%%
 arquivo = "data.csv"
 
 with open(arquivo) as open_file:
